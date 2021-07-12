@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @igof13
-- 👀 I'm a student working toward my Bachelor degree in Back-End Web Development and looking for an opportunity to begin
+- 👀 I'm a student working toward my Bachelor degree in System Analisys and Development and looking for an opportunity to begin
 my career in the field. Capable of identifying and quickly closing any knowledge gaps to offer value to my employer and team.
 - 🌱 I’m currently learning Raect and NodeJs
 - 💞️ I’m looking to collaborate on any interesting project.
